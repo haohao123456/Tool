@@ -9,6 +9,3 @@
 1. [JavaScript相关知识](http://www.ruanyifeng.com/blog/javascript/ "")
 
 ![](https://github.com/haohao123456/haha/blob/master/Screenshot_2017-12-18-14-13-15-405_lockscreen.png)
-
-
-
