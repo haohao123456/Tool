@@ -5,3 +5,4 @@ sudo apt-get update</br>
 sudo apt-get install windscribe-cli</br>
 windscribe login</br>
 windscribe connect</br>
+xCbFT279pYbDYKW
