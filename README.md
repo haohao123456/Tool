@@ -6,3 +6,4 @@ sudo apt-get install windscribe-cli</br>
 windscribe login</br>
 windscribe connect</br>
 xCbFT279pYbDYKW
+https://jingyan.eeboard.com/article/73813
